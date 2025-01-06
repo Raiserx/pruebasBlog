@@ -1,0 +1,4 @@
+baseURL = 'https://raiserx.github.io/pruebaBlog/'
+languageCode = 'es-us'
+title = 'Perdiendo el tiempo'
+theme = 'ananke'

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Perdiendo el tiempo</title>
-    <link>http://localhost:1313/pruebaBlog/posts/</link>
-    <description>Recent content in Posts on Perdiendo el tiempo</description>
+    <title>Posts on </title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
-    <language>es-es</language>
+    <language>en</language>
     <lastBuildDate>Mon, 06 Jan 2025 19:25:36 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/pruebaBlog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SKALD: Against the priory</title>
-      <link>http://localhost:1313/pruebaBlog/posts/my-first-post/</link>
+      <link>//localhost:1313/posts/my-first-post/</link>
       <pubDate>Mon, 06 Jan 2025 19:25:36 +0100</pubDate>
-      <guid>http://localhost:1313/pruebaBlog/posts/my-first-post/</guid>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;&#xA;&lt;p&gt;Este es uno de esos maravillosos casos en los que un regalo da en la diana, lo cual además me ha permitido disfrutar enormemente algo que probablemente habría tardado bastante tiempo en darle la oportunidad de, primero comprarlo, y después empezarlo.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Skald&lt;/strong&gt; es un juego indie de rol que desprende aroma a clásico por todos sus poros, tanto en el apartado visual / sonoro, como en mecánicas y en inmersión. Sin embargo, como es habitual en títulos indie con esta inspiración retro, saben combinarlo con una adaptación en &lt;em&gt;QoL&lt;/em&gt;, accesibilidad y dificultad a los tiempos actuales.&lt;/p&gt;</description>
     </item>
   </channel>

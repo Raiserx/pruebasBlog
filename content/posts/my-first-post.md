@@ -1,7 +1,7 @@
 +++
 date = '2025-01-06T19:25:36+01:00'
 draft = false
-title = 'SKALD: Against the priory'
+title = 'SKALD: Against the prioryS'
 +++
 ## Introducción
 

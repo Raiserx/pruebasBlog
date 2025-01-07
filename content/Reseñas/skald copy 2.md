@@ -1,8 +1,9 @@
-+++
-date = '2025-01-06T19:25:36+01:00'
-draft = false
-title = 'SKALD: Against the prioryS'
-+++
+---
+date: 2025-01-06T19:25:36+01:00
+title: 'SKALD: Against the black priory'
+featured_image: '/images/reviews/skald/skald-review-header.jpg'
+tags: ['RPG', 'Indie']
+---
 ## Introducción
 
 Este es uno de esos maravillosos casos en los que un regalo da en la diana, lo cual además me ha permitido disfrutar enormemente algo que probablemente habría tardado bastante tiempo en darle la oportunidad de, primero comprarlo, y después empezarlo.

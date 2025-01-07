@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
-    <link>//localhost:1313/tags/</link>
-    <description>Recent content in Tags on </description>
+    <title>Tags on Perdiendo el tiempo</title>
+    <link>http://localhost:1313/pruebaBlog/tags/</link>
+    <description>Recent content in Tags on Perdiendo el tiempo</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language>
+    <lastBuildDate>Mon, 06 Jan 2025 19:25:36 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/pruebaBlog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Indie</title>
+      <link>http://localhost:1313/pruebaBlog/tags/indie/</link>
+      <pubDate>Mon, 06 Jan 2025 19:25:36 +0100</pubDate>
+      <guid>http://localhost:1313/pruebaBlog/tags/indie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RPG</title>
+      <link>http://localhost:1313/pruebaBlog/tags/rpg/</link>
+      <pubDate>Mon, 06 Jan 2025 19:25:36 +0100</pubDate>
+      <guid>http://localhost:1313/pruebaBlog/tags/rpg/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

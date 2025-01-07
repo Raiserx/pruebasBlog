@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Perdiendo el Tiempo on Perdiendo el tiempo</title>
-    <link>http://localhost:1313/pruebaBlog/</link>
-    <description>Recent content in Perdiendo el Tiempo on Perdiendo el tiempo</description>
+    <title>Indie on Perdiendo el tiempo</title>
+    <link>http://localhost:1313/pruebaBlog/tags/indie/</link>
+    <description>Recent content in Indie on Perdiendo el tiempo</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Mon, 06 Jan 2025 19:25:36 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/pruebaBlog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pruebaBlog/tags/indie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SKALD: Against the black priory</title>
       <link>http://localhost:1313/pruebaBlog/rese%C3%B1as/skald-copy-2/</link>

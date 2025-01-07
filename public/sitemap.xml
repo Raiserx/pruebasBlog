@@ -4,15 +4,25 @@
   <url>
     <loc>http://localhost:1313/pruebaBlog/</loc>
     <lastmod>2025-01-06T19:25:36+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/pruebaBlog/posts/</loc>
     <lastmod>2025-01-06T19:25:36+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/pruebaBlog/posts/my-first-post/</loc>
     <lastmod>2025-01-06T19:25:36+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/pruebaBlog/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/pruebaBlog/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
